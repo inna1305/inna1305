@@ -5,12 +5,15 @@ Open to collaboration, job opportunities, and interesting conversations. Feel fr
 
 #### Here are some of my projects:
 
-[Quiz(Javascript)](https://github.com/inna1305/quiz)
+[Interview task](https://github.com/inna1305/interview-task)
 
 [Quiz(React)](https://github.com/inna1305/quiz-react)
 
 [E-commerce App(Next.js, team work)](https://github.com/inna1305/eCommerce-Application-RSS)
 
+[Quiz(Javascript)](https://github.com/inna1305/quiz)
+
 [ShowJet clone app(Typescript, team work)](https://github.com/inna1305/rsclone)
 
 [Online store(Typescript, team work)](https://github.com/inna1305/online-store)
+

@@ -5,7 +5,7 @@ Open to collaboration, job opportunities, and interesting conversations. Feel fr
 
 #### Here are some of my projects:
 
-[Interview task](https://github.com/inna1305/interview-task)
+[Table App](https://github.com/inna1305/Table-App)
 
 [Quiz(React)](https://github.com/inna1305/quiz-react)
 
